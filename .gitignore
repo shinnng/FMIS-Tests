@@ -1,0 +1,22 @@
+# MATCH
+**/*cache
+**/*debug
+**/*report
+**/*log
+**/*tool
+**/*venv
+**/*bug_log
+.idea
+
+# ASSIGN
+deploy/tmp
+deploy/node
+deploy/bin
+
+# OTHER
+**/*.py[cod]
+**/*.so
+**/*.egg
+**/*.egg-info
+
+/conf/env
